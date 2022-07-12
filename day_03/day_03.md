@@ -1,0 +1,2 @@
+# Dia 3
+No terceiro dia foi ensinado sobre `if/else` e `elif`. Como desafio final, foi criado um jogo que tem como objetivo buscar o tesouro, escolhendo caminhos, os caminhos foram criados com a estrutura condicional de python.

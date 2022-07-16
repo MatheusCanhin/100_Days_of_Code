@@ -12,7 +12,7 @@ def turn_right():
 #Evita que o robo entre em loop no começo
 while front_is_clear():
     move()
-turn_right()
+turn_left()
 
 #Reaiza as checagens até chegar no objetivo
 while not at_goal():

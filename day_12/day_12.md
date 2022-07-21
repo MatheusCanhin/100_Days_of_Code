@@ -1,0 +1,2 @@
+# Dia 12
+No dia 12, foram apresentadas variáveis globais e variáveis locais, como desafio era necessário criar um jogo de adivinhação, o computador escolhe um número de 1 a 100 e o usuário deve acertar que número é

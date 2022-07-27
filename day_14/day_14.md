@@ -1,0 +1,2 @@
+# Dia 14
+No dia 14, criamos um jogo que tem como comparar duas contas do instagram e o usuário deve informar qual conta ele acha que tem a maior quantidade de seguidores, caso o usuário acerte, ele receberá um ponto no palacar, caso ele erre, o jogo encerrará e retornará o seu placar, para a construção do game foi utilizado 3 arquivos, o `main.py`, `art.py` e o `game_data.py`.

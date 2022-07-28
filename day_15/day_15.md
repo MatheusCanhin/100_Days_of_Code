@@ -1,0 +1,2 @@
+# Dia 15
+No dia 15 do bootcamp, foi ensinado a como instalar e utilizar o Pycharm para construir os códigos em python e como desafio final, foi necessário cria um algoritmo que simulava uma máquina de café.

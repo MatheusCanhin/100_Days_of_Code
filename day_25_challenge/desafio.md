@@ -1,0 +1,2 @@
+Como desafio teremos que manipular um arquivo csv com dados de esquilos do central parque, são diversos dados e queremos criar um arquivo que contenha a quantidade de esquilos cinzas, pretos e vermelhos no parque.
+Para isso vamos utilizar a biblioteca `pandas`, sua documentação está presente em [pandas](https://pandas.pydata.org/docs/)

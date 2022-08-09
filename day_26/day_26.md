@@ -1,0 +1,2 @@
+# dia 26
+No dia 26 vamos aprender sobre list comprehension e também como desafio vamos criar um programa que lê um arquivo csv, recebe uma entrada do usuário e retorna como um alfabeto NATO, devemos utilizar list comprehension e dict comprehension.
